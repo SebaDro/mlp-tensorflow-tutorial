@@ -27,3 +27,6 @@ Definieren Sie ein eigenes sequentielles Modell und variieren Sie dabei verschie
 ### 3 Evaluation
 Werten Sie die Evaluationsmetriken des linearen Modells, des DNN Models und ihres eigenen Modells aus, indem Sie die
 Metriken in ein pandas DataFrame übertragen und angemessen mit matplotlib visualisieren
+
+### 4 Modellierung einer eigenen Funktion
+Definieren Sie einmal eine beliebige komplexe nicht-lineare Funktion und versuchen Sie diese wie zuvor mit Hilfe eines Neuronalen Netzes anzunähern.
