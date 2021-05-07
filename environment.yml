@@ -1,0 +1,9 @@
+name: gi-projekt-ki-tf
+channels:
+  - anaconda
+  - defaults
+dependencies:
+  - tensorflow
+  - matplotlib
+  - jupyterlab
+  - pandas
